@@ -156,7 +156,7 @@ if( words[i] === search){
   return count;
 }
 
-
+//
 
 // Iteration #8: Bonus
 const matrix = [
